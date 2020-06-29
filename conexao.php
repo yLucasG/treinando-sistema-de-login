@@ -5,7 +5,7 @@ session_start();
 $localhost = "localhost";
 $user = "root";
 $passw = "";
-$banco = "loja";
+$banco = "projeto_login";
 
 
 try{
