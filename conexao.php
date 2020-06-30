@@ -1,6 +1,7 @@
 <?php
 
 session_start();
+hello world  
 
 $localhost = "localhost";
 $user = "root";
